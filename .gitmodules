@@ -1,0 +1,3 @@
+[submodule "Tuto1"]
+	path = Tuto1
+	url = https://github.com/soli-lms/pkg_creation_projets_mockup.git
